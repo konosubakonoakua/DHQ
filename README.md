@@ -1,2 +1,1 @@
-# DatasetsNormlizationParameters
-store pre-calculated normalization parameters (mean, std)
+provide pre-calculated normalization parameters (mean, std) etc.
