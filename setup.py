@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="DatasetsHelper", # Replace with your own username
-    version="0.0.2",
+    version="0.0.3",
     author="konosubakonoakua",
     author_email="ailike_meow@qq.com",
     description="A package to get normalization parameters used in different datasets like imagenet, cifar etc.",
