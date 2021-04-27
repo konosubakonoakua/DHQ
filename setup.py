@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="DatasetsHelperQ", # Replace with your own username
+    name="DatasetsHelper", # Replace with your own username
     version="0.0.1",
     author="konosubakonoakua",
     author_email="ailike_meow@qq.com",
