@@ -27,6 +27,6 @@ setuptools.setup(
     include_package_data=True,
     package_data={'': ['data/*.json']},
     install_requires=[
-        "pytorch",
+        "torch>=1.4",
     ],
 )
